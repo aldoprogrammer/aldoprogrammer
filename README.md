@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aldo Lata Soba</h1>
 <h2 align="center"> I am available for contributing on Open Source sproject</h2>
-<h3 align="center">A Junior Front - End Web Developer & Cyber Security Researcher.</h3>
+<h3 align="center">A Full - Stack Web Developer & Cyber Security Researcher.</h3>
 <img align="center" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldoprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="aldoprogrammer" /> </p>
 
