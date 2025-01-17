@@ -2,7 +2,12 @@
 <h1 align="center">Hi 👋, I'm Aldo Lata Soba</h1>
 <h2 align="center"> I am available for contributing on Open Source sproject</h2>
 <h3 align="center">A Full - Stack Web Developer & Cyber Security Researcher.</h3>
-<img align="center" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<!-- <img align="center" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
+<!-- Replace GIF with Video -->
+<video align="center" width="400" autoplay loop muted playsinline>
+  <source src="https://cdn.pixabay.com/video/2020/02/24/32767-394004551_tiny.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldoprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="aldoprogrammer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldoprogrammer" alt="aldoprogrammer" /></a> </p>
