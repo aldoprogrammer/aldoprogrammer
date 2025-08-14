@@ -17,13 +17,13 @@
 </p>
 
 <p align="left">
-  - 🔭 I’m currently working on <a href="https://aldoprogrammer.github.io/umb-chatbot/">UMB ChatBot</a>
+  - 🔭 I’m currently working on <a href="https://simaru.umb.ac.id/register">UMB ChatBot</a>
   - 🌱 I’m currently learning React JS, Tailwind CSS, Material UI, Ant-Design, Bootstrap 5, and JavaScript
   - 👯 I’m looking to collaborate on Anyone's Open Source Project
   - 👨‍💻 All of my projects are available at <a href="https://aldoportofolio.000webhostapp.com/">my portfolio</a>
-  - 💬 Ask me about React JS, Front-End Web Development & Website Security
+  - 💬 Ask me about Full-Stack (Mobile & Web) Development, AI, ML, Web 3, UI UX Designer, PM & System Security
   - 📫 How to reach me: aldobesma@gmail.com
-  - 📄 Know about my experiences, CV, and Resume <a href="https://drive.google.com/drive/folders/1HGRHIC3seRcTU27LMFdfvwU15mltUGNI?usp=sharing">here</a>
+  - 📄 For my latest CV or résumé, email me at **aldobesma@gmail.com**.
   - ⚡ Fun fact: I like to play games, program, and watch YouTube.
 </p>
 
