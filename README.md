@@ -20,10 +20,10 @@
   - 🔭 I’m currently working on <a href="https://simaru.umb.ac.id/register">UMB ChatBot</a>
   - 🌱 I’m currently learning React JS, Tailwind CSS, Material UI, Ant-Design, Bootstrap 5, and JavaScript
   - 👯 I’m looking to collaborate on Anyone's Open Source Project
-  - 👨‍💻 All of my projects are available at <a href="https://aldoportofolio.000webhostapp.com/">my portfolio</a>
+<!--   - 👨‍💻 All of my projects are available at <a href="https://aldoportofolio.000webhostapp.com/">my portfolio</a> -->
   - 💬 Ask me about Full-Stack (Mobile & Web) Development, AI, ML, Web 3, UI UX Designer, PM & System Security
   - 📫 How to reach me: aldobesma@gmail.com
-  - 📄 For my latest CV or résumé, email me at [aldobesma@gmail.com](mailto:aldobesma@gmail.com).
+  - 📄 For my latest CV or résumé, <a href="mailto:aldobesma@gmail.com">email me</a>.
   - ⚡ Fun fact: I like to play games, program, and watch YouTube.
 </p>
 
