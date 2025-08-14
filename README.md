@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  - 🔭 I’m currently working on <a href="https://simaru.umb.ac.id/register">UMB ChatBot</a>
+  - 🔭 I have worked for my campus's final project on <a href="https://simaru.umb.ac.id/register">UMB ChatBot</a>
   - 🌱 I’m currently learning React JS, Tailwind CSS, Material UI, Ant-Design, Bootstrap 5, and JavaScript
   - 👯 I’m looking to collaborate on Anyone's Open Source Project
 <!--   - 👨‍💻 All of my projects are available at <a href="https://aldoportofolio.000webhostapp.com/">my portfolio</a> -->
