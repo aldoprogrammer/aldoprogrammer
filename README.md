@@ -23,7 +23,7 @@
   - 👨‍💻 All of my projects are available at <a href="https://aldoportofolio.000webhostapp.com/">my portfolio</a>
   - 💬 Ask me about Full-Stack (Mobile & Web) Development, AI, ML, Web 3, UI UX Designer, PM & System Security
   - 📫 How to reach me: aldobesma@gmail.com
-  - 📄 For my latest CV or résumé, email me at **aldobesma@gmail.com**.
+  - 📄 For my latest CV or résumé, email me at [aldobesma@gmail.com](mailto:aldobesma@gmail.com).
   - ⚡ Fun fact: I like to play games, program, and watch YouTube.
 </p>
 
