@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aldo Lata Soba</h1>
 <h2 align="center">I am available for contributing to Open Source projects</h2>
-<h3 align="center">A Front-End Developer, UI & UX Designer & Cyber Security Researcher from Indonesia 🇮🇩</h3>
+<h3 align="center">A Full-Stack (Mobile & Web) Developer, UI & UX Designer, PM, Web3 and AI Hackthon Builder & Cyber Security Researcher from Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img align="center" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **Front-End Developer**, **UI & UX Designer**, and **Cyber Security Researcher** based in Indonesia. Currently working at **Borrow4Less**, I have been actively contributing to the tech community since joining GitHub in 2022.
+I am a passionate **A Full-Stack (Mobile & Web) Developer**, **UI & UX Designer**, **PM Experience**,, **Web3 and AI Hackthon Builder** and **Cyber Security Researcher** based in Indonesia. Currently working at **Borrow4Less**, I have been actively contributing to the tech community since joining GitHub in 2022.
 
 With **212 public repositories** and a growing community of **22 followers**, I love building innovative solutions and sharing knowledge through open-source projects. My expertise spans across web development, mobile applications, artificial intelligence, and cybersecurity.
 
