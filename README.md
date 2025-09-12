@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aldo Lata Soba</h1>
 <h2 align="center">I am available for contributing to Open Source projects</h2>
-<h3 align="center">A Full-Stack (Mobile & Web) Developer, UI & UX Designer, PM, Web3 and AI Hackthon Builder & Cyber Security Researcher from Indonesia 🇮🇩</h3>
+<h3 align="center">A Full-Stack (Mobile & Web) Developer, UI & UX Designer, PM, Web3 and AI Hackthon Builder & Cyber Security Researcher from Indonesia 🇮🇩 (UTC +07:00)</h3>
 
 <p align="center">
   <img align="center" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
